@@ -100,6 +100,13 @@ This project demonstrates practical SQL skills required for entry-level Data Ana
 
 ### Trigger
 ![Trigger](Screenshot%202026-07-04%20170739.png)
+
+## 🗂️ Entity Relationship Diagram (ERD)
+
+The following diagram represents the database schema and relationships between tables.
+
+![ER Diagram](ER_Diagram.png)
+
 ## 👩‍💻 Author
 
 **Fathima Shaik**
