@@ -87,7 +87,19 @@ The project manages employee, department, and project information while generati
 This project demonstrates practical SQL skills required for entry-level Data Analyst, SQL Developer, Database Developer, and Software Engineer roles.
 
 ---
+## 📸 Project Screenshots
 
+### Database Tables
+![Database](Screenshot%202026-07-04%20170134.png)
+
+### JOIN Query
+![Join](Screenshot%202026-07-04%20170227.png)
+
+### Stored Procedure
+![Procedure](Screenshot%202026-07-04%20170626.png)
+
+### Trigger
+![Trigger](Screenshot%202026-07-04%20170739.png)
 ## 👩‍💻 Author
 
 **Fathima Shaik**
