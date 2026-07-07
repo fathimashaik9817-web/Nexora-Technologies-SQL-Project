@@ -90,16 +90,16 @@ This project demonstrates practical SQL skills required for entry-level Data Ana
 ## 📸 Project Screenshots
 
 ### Database Tables
-![Database](Screenshot%202026-07-04%20170134.png)
+![Database](database_creation.png)
 
 ### JOIN Query
-![Join](Screenshot%202026-07-04%20170227.png)
+![Join](joins.png)
 
 ### Stored Procedure
-![Procedure](Screenshot%202026-07-04%20170626.png)
+![Procedure](stored_procedure.png)
 
 ### Trigger
-![Trigger](Screenshot%202026-07-04%20170739.png)
+![Trigger](triggers.png)
 
 ## 🗂️ Entity Relationship Diagram (ERD)
 
